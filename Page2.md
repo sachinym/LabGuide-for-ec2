@@ -26,7 +26,7 @@
 
 6. Provide a name for key pair which should be unique everytime. Then, click on **Create key pair** which will create a new key pair.
 
-!!! - When the key pair is created, a file with private key file format (.pem or .ppk) is downloaded to your system. Use that key to access your instance when logging in through ssh client.
+> When the key pair is created, a file with private key file format (.pem or .ppk) is downloaded to your system. Use that key to access your instance when logging in through ssh client.
 
 ![](./Screenshot/create_keypair.png)
 
