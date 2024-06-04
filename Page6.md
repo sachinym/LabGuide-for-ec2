@@ -8,7 +8,7 @@ Below are some of the monitoring types which can be used to track ec2 instances 
 1. **Using CloudWatch to monitor EC2 instances**: CloudWatch is like a watchdog for your EC2 instances, keeping an eye on their performance and health. It collects data on things like CPU usage, disk space, and network traffic, giving you insights into how your instances are doing. With CloudWatch, you can see if there are any issues that need attention, helping you keep your applications running smoothly.
 Steps to use CloudWatch :
     <ol>
-    <li type="i"> In the search box, type *CloudWatch* and select first option as shown.
+    <li type="i"> In the search box, type <b>CloudWatch</b> and select first option as shown.
 
 ![](./Screenshot/click_on_cloud_watch.png)     
     </li>
@@ -34,7 +34,7 @@ Steps to use CloudWatch :
     Steps to create CloudWatch metrics :
     <br>
     <ol>
-    <li type="i"> Open CloudWatch Dashboard, click on **Create Dashboard** option button.
+    <li type="i"> Open CloudWatch Dashboard, click on <b>Create Dashboard</b> option button.
 
 ![](./Screenshot/cloud_watch_create_dashboard.png)    
     </li>
