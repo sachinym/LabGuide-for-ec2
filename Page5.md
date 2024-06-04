@@ -120,8 +120,8 @@ You can use Amazon **VPC Lattice** to manage the flow of traffic and API calls b
 
 ![](./Screenshot/customise_auto_scaling_group_12.png)
 
-25. Verify your settings for your Auto Scaling group, and edit the settings as needed. When you are satisfied with your settings, choose [Create Auto Scaling group.](#create-auto-scale-group)
+25. Verify your settings for your Auto Scaling group, and edit the settings as needed. When you are satisfied with your settings, choose Create Auto Scaling group.
 
 ![](./Screenshot/review_auto_scaling_group.png)
 
-![](./Screenshot/review_auto_scaling_group_01.png){#create-auto-scale-group}
+![](./Screenshot/review_auto_scaling_group_01.png)
