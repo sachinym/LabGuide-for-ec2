@@ -14,7 +14,7 @@
 
 4. Ec2 instance summary will be opened. Click on the **connect** button.
 
-![](./Screenshot/connect_to_instance.png){#section-2}
+![](./Screenshot/connect_to_instance.png)
 
 5. Navigate down the **Connect to instance** page and click on **connect** button.  
 
@@ -23,6 +23,6 @@
 
 6. You can perform your tasks in this ec2 instance command line interface(cli). 
 
-> The ami id selected for this instance is amazon linux. You can choose your type of os as selected in [ami-selection](#section-1)
+> The ami id selected for this instance is amazon linux. You can choose your type of os.
 
 ![](./Screenshot/instance_cli.png)
