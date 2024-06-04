@@ -10,7 +10,7 @@ Below are some of the monitoring types which can be used to track ec2 instances 
 
     Steps to use CloudWatch :
     <ol>
-    <li type="i"> In the search box, type *CloudWatch* and select first option as shown.
+    <li type="i"> In the search box, type <b>CloudWatch</b> and select first option as shown.
 ![](./Screenshot/click_on_cloud_watch.png)     
     </li>
     <li type="i"> The CloudWatch dashboard will be opened. In the left panel, search for **EC2 Resource Health** and click on it.
@@ -31,7 +31,7 @@ Below are some of the monitoring types which can be used to track ec2 instances 
     Steps to create CloudWatch metrics :
     <br>
     <ol>
-    <li type="i"> Open CloudWatch Dashboard, click on **Create Dashboard** option button.
+    <li type="i"> Open CloudWatch Dashboard, click on <b>Create Dashboard</b> option button.
 ![](./Screenshot/cloud_watch_create_dashboard.png)    
     </li>
     <li type="i"> Provide a name for the dashboard related to your usecase. Here we are providing *ec2-monitor* as name to monitor instance created in previous steps.
