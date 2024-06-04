@@ -14,7 +14,7 @@
 
 3. Select an Amazon Machine Image (ami) of your choice and preference.
   
-![](./Screenshot/select_ami.png){#section-1} 
+![](./Screenshot/select_ami.png)
 
 4. Select an instance type that meets your computing, memory, networking, or storage needs.
 
