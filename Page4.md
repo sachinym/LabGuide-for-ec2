@@ -11,7 +11,7 @@ Instance have different states which are explained below -
     </li>
     <li type="i">If the instance state is in <b>Running state,</b> then it is ready for use. Also <b>Status check</b> will show <b>initializing</b> state which means that automated checks are running.
 
-!!! NOTE: A status check gives you the information that results from automated checks performed by Amazon EC2. For more information, check this [link.](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/monitoring-instances-status-check.html)
+> NOTE: A status check gives you the information that results from automated checks performed by Amazon EC2. For more information, check this [link.](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/monitoring-instances-status-check.html)
 
 ![](./Screenshot/instance_running_state.png)
     </li>
@@ -54,7 +54,7 @@ There is another set of options present in instance which are **actions** which 
 </li><br>
 </ol>
 
-As you have learnt in previous section to connect to your instance through [summary console](#section-2), now navigate down the console and you will get all the settings and resources associated to your instance. 
+As you have learnt in previous section to connect to your instance through summary console, now navigate down the console and you will get all the settings and resources associated to your instance. 
 <br>
 
 Each of the listed options in the image shown below provide some information which are related to your instance.  
@@ -73,7 +73,7 @@ The left panel is useful when
 Try to explore all the options where you can customise your instance based on your use-case.
 ![](./Screenshot/left_panel_options.png)
 
-!!! - To track all the EC2 instance deployed in different regions, go to [EC2 Global View](#section-3) where you can view all your resources at one page.
+> To track all the EC2 instance deployed in different regions, go to EC2 Global View where you can view all your resources at one page.
 
 ![](./Screenshot/click_on_global_view.png)
-![](./Screenshot/ec2_global_view.png){#section-3}
+![](./Screenshot/ec2_global_view.png)
